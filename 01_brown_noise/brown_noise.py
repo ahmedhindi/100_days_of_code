@@ -41,3 +41,9 @@ def main():
 
 
 main()
+
+
+# add tests
+# add other noises https://www.zapsplat.com/sound-effect-category/ocean/
+# use fire
+# sum noises to see if works and normalize
